@@ -1,101 +1,582 @@
 # Continue with questions 101-196 from the ESS PDF
 ess_questions_101_196 = [
-    {"id": 101, "question": "The Bhopal gas tragedy (1984) was caused by leakage of:", "options": ["Methyl isocyanate (MIC)", "Ammonia", "SO₂", "Chlorine"], "correct": 0},
-    {"id": 102, "question": "Lead pollution in air mainly comes from:", "options": ["Old vehicle exhaust (leaded petrol)", "Nuclear plants", "Forest fires", "Soil erosion"], "correct": 0},
-    {"id": 103, "question": "The colorless, odorless, toxic gas that binds to hemoglobin is:", "options": ["Carbon monoxide", "Methane", "Sulphur dioxide", "Nitrous oxide"], "correct": 0},
-    {"id": 104, "question": "AQI value above 400 indicates:", "options": ["Severe pollution", "Good air quality", "Moderate air quality", "Satisfactory"], "correct": 0},
-    {"id": 105, "question": "Which pollutant damages the nervous system, especially in children?", "options": ["Lead", "SO₂", "CO₂", "O₃"], "correct": 0},
-    {"id": 106, "question": "The major cause of soil pollution is:", "options": ["Excessive use of chemicals (pesticides, fertilizers)", "Waterlogging", "Wind erosion", "Soil organisms"], "correct": 0},
-    {"id": 107, "question": "Soil pollution by heavy metals mainly comes from:", "options": ["Industrial effluents", "Biomass burning", "Oxygen depletion", "Acid rain"], "correct": 0},
-    {"id": 108, "question": "Excess nitrate in soil leads to:", "options": ["Groundwater pollution", "Ozone depletion", "Acid rain", "Soil erosion"], "correct": 0},
-    {"id": 109, "question": "Which of the following is not a biodegradable solid waste?", "options": ["Plastic", "Paper", "Food waste", "Wood"], "correct": 0},
-    {"id": 110, "question": "Municipal solid waste (MSW) in India is largely composed of:", "options": ["Organic matter", "Plastic", "Metal", "Glass"], "correct": 0},
-    {"id": 111, "question": "The process of controlled burning of solid waste at high temperatures is:", "options": ["Incineration", "Composting", "Landfilling", "Vermiculture"], "correct": 0},
-    {"id": 112, "question": "The process of converting organic waste into manure is:", "options": ["Composting", "Incineration", "Recycling", "Gasification"], "correct": 0},
-    {"id": 113, "question": "Sanitary landfills are used for:", "options": ["Safe disposal of solid waste", "Irrigation", "Mining", "Soil erosion control"], "correct": 0},
-    {"id": 114, "question": "Biomedical waste should be disposed of by:", "options": ["Incineration", "Composting", "Open dumping", "Landfilling"], "correct": 0},
-    {"id": 115, "question": "Which is considered hazardous waste?", "options": ["E-waste", "Food waste", "Paper waste", "Yard waste"], "correct": 0},
-    {"id": 116, "question": "E-waste mainly contains:", "options": ["Toxic heavy metals and plastics", "Only organic matter", "Pure biodegradable compounds", "Harmless salts"], "correct": 0},
-    {"id": 117, "question": "Which metal is most common in e-waste?", "options": ["Lead", "Sodium", "Calcium", "Potassium"], "correct": 0},
-    {"id": 118, "question": "Mercury pollution in soil is commonly associated with:", "options": ["Electronic waste", "Textile industry", "Agriculture", "Forest fires"], "correct": 0},
-    {"id": 119, "question": "The best method of managing biodegradable solid waste is:", "options": ["Composting", "Open dumping", "Burning", "Deep burial"], "correct": 0},
-    {"id": 120, "question": "Which electronic device contributes the maximum to e-waste in India?", "options": ["Mobile phones & computers", "Refrigerators", "Air conditioners", "Printers"], "correct": 0},
-    {"id": 121, "question": "Which method is most eco-friendly for solid waste management?", "options": ["Reduce, Reuse, Recycle (3Rs)", "Open dumping", "Incineration", "Landfilling"], "correct": 0},
-    {"id": 122, "question": "Which of the following pollutants is most commonly associated with agricultural runoff?", "options": ["Nitrates and phosphates", "Mercury", "Lead", "Asbestos"], "correct": 0},
-    {"id": 123, "question": "What is eutrophication?", "options": ["Excessive growth of algae due to nutrient pollution", "Removal of pollutants from water", "Increase in oxygen levels in water", "Depletion of nutrients in water"], "correct": 0},
-    {"id": 124, "question": "The presence of which of the following in drinking water indicates contamination by human or animal waste?", "options": ["Escherichia coli (E. coli)", "Chlorine", "Nitrates", "Iron"], "correct": 0},
-    {"id": 125, "question": "Acid rain is a type of water pollution caused mainly by:", "options": ["Sulfur dioxide and nitrogen oxides", "Carbon monoxide and nitrogen", "Methane and hydrogen", "Oxygen and helium"], "correct": 0},
-    {"id": 126, "question": "The process of removing salt from seawater is called:", "options": ["Desalination", "Chlorination", "Sedimentation", "Filtration"], "correct": 0},
-    {"id": 127, "question": "Which of these is not a water-borne disease?", "options": ["Malaria", "Typhoid", "Cholera", "Dysentery"], "correct": 0},
-    {"id": 128, "question": "Point source pollution refers to pollution that:", "options": ["Can be traced to a specific location", "Comes from rain", "Comes from the atmosphere", "Has no specific origin"], "correct": 0},
-    {"id": 129, "question": "Which of these is a biological method of water purification?", "options": ["Activated sludge process", "Boiling", "Chlorination", "Reverse osmosis"], "correct": 0},
-    {"id": 130, "question": "Pesticides and fertilizers are primarily responsible for:", "options": ["Soil pollution", "Increasing biodiversity", "Improving soil texture", "Erosion control"], "correct": 0},
-    {"id": 131, "question": "Which of the following is a biodegradable pollutant?", "options": ["Paper", "Plastic", "Glass", "DDT"], "correct": 0},
-    {"id": 132, "question": "What is bioremediation?", "options": ["Use of microorganisms to clean pollutants", "Use of chemicals to remove pollution", "Burning of waste", "Soil erosion control"], "correct": 0},
-    {"id": 133, "question": "Landfills are a source of:", "options": ["Soil contamination", "Soil improvement", "Groundwater recharge", "Pest control"], "correct": 0},
-    {"id": 134, "question": "What is leaching in soil?", "options": ["Removal of nutrients by water", "Fertilizer application", "Aeration of soil", "Addition of humus"], "correct": 0},
-    {"id": 135, "question": "What is smog primarily composed of?", "options": ["Smoke and fog", "Water vapor and dust", "Ozone and carbon dioxide", "Nitrogen and oxygen"], "correct": 0},
-    {"id": 136, "question": "Which of the following is a greenhouse gas contributing to global warming?", "options": ["Methane", "Nitrogen", "Argon", "Neon"], "correct": 0},
-    {"id": 137, "question": "What is the effect of ozone depletion?", "options": ["Increased ultraviolet radiation reaching Earth", "Increased greenhouse effect", "Decreased rainfall", "More acid rain"], "correct": 0},
-    {"id": 138, "question": "Which unit is commonly used to measure air pollution levels (such as particulate matter concentration)?", "options": ["Micrograms per cubic meter (µg/m³)", "Decibel (dB)", "Hertz (Hz)", "Watts (W)"], "correct": 0},
-    {"id": 139, "question": "Which of the following is a natural source of air pollution?", "options": ["Volcanic eruptions", "Factory emissions", "Automobile exhaust", "Burning fossil fuels"], "correct": 0},
-    {"id": 140, "question": "Which unit is used to measure noise levels?", "options": ["Decibel (dB)", "Watt", "Hertz", "Newton"], "correct": 0},
-    {"id": 141, "question": "What noise level is generally considered the threshold for harmful noise?", "options": ["85 dB", "30 dB", "120 dB", "60 dB"], "correct": 0},
-    {"id": 142, "question": "What does MSW stand for in waste management?", "options": ["Municipal Solid Waste", "Mixed Solid Waste", "Managed Solid Waste", "Medical Solid Waste"], "correct": 0},
-    {"id": 143, "question": "Which type of waste is classified as hazardous?", "options": ["Chemical solvents", "Food waste", "Paper waste", "Plastic bottles"], "correct": 0},
-    {"id": 144, "question": "The process of converting organic waste into nutrient-rich compost is called:", "options": ["Composting", "Incineration", "Landfilling", "Recycling"], "correct": 0},
-    {"id": 145, "question": "What is leachate?", "options": ["Liquid formed when waste decomposes in a landfill", "A type of hazardous waste", "Solid waste material", "Gas produced during incineration"], "correct": 0},
-    {"id": 146, "question": "Which international treaty deals with hazardous waste movement?", "options": ["Basel Convention", "Kyoto Protocol", "Montreal Protocol", "Paris Agreement"], "correct": 0},
-    {"id": 147, "question": "Incineration of hazardous waste primarily helps in:", "options": ["Waste volume reduction", "Producing compost", "Groundwater recharge", "Increasing toxicity"], "correct": 0},
-    {"id": 148, "question": "Which of the following is a solid waste segregation technique?", "options": ["Source separation", "Bulk dumping", "Open burning", "Leachate treatment"], "correct": 0},
-    {"id": 149, "question": "Which hazardous waste treatment process involves heating waste in the absence of oxygen?", "options": ["Pyrolysis", "Incineration", "Composting", "Landfilling"], "correct": 0},
-    {"id": 150, "question": "Which solid waste management method recovers energy from waste?", "options": ["Incineration", "Landfilling", "Composting", "Recycling"], "correct": 0},
-    {"id": 151, "question": "Burning e-waste can release:", "options": ["Dioxins and furans", "Oxygen", "Carbon dioxide only", "Chlorofluorocarbons"], "correct": 0},
-    {"id": 152, "question": "What is one of the most hazardous materials found in e-waste?", "options": ["Lead", "Plastic", "Glass", "Aluminium"], "correct": 0},
-    {"id": 153, "question": "Which international standard is commonly used for OHASMS?", "options": ["ISO 45001", "ISO 9001", "ISO 27001", "ISO 14001"], "correct": 0},
-    {"id": 154, "question": "The primary aim of OHASMS is to:", "options": ["Prevent workplace injuries and illnesses", "Improve product quality", "Manage environmental impact", "Increase production speed"], "correct": 0},
-    {"id": 155, "question": "Which international event led to the celebration of World Environment Day?", "options": ["Stockholm Conference", "Rio Earth Summit", "Paris Agreement", "Kyoto Protocol"], "correct": 0},
-    {"id": 156, "question": "Energy conservation refers to:", "options": ["Efficient and wise use of energy resources", "Using more energy", "Generating electricity using coal", "Avoiding renewable energy sources"], "correct": 0},
-    {"id": 157, "question": "Energy efficiency means:", "options": ["Using less energy to perform the same task", "Using energy wastefully", "Using more energy than required", "Replacing energy with fuel"], "correct": 0},
-    {"id": 158, "question": "Which device helps in energy conservation in homes?", "options": ["LED light", "Incandescent bulb", "Diesel generator", "Ceiling fan"], "correct": 0},
-    {"id": 159, "question": "Which energy management technique involves studying energy usage patterns?", "options": ["Energy audit", "Billing system", "Fuel combustion", "Load shedding"], "correct": 0},
-    {"id": 160, "question": "The energy conservation act in India was passed in:", "options": ["2001", "1995", "2010", "2005"], "correct": 0},
-    {"id": 161, "question": "Which body is responsible for energy efficiency in India?", "options": ["BEE", "SEBI", "RBI", "ISRO"], "correct": 0},
-    {"id": 162, "question": "Energy Star label on an appliance indicates:", "options": ["Energy efficiency", "Poor performance", "Low price", "Low warranty"], "correct": 0},
-    {"id": 163, "question": "One unit of electricity is equal to:", "options": ["1 kilowatt-hour", "1 kilowatt", "1 watt", "1 megawatt"], "correct": 0},
-    {"id": 164, "question": "Which of the following is a renewable energy source?", "options": ["Solar Energy", "Coal", "Natural Gas", "Nuclear Energy"], "correct": 0},
-    {"id": 165, "question": "Which device is used to convert sunlight directly into electricity?", "options": ["Photovoltaic cell", "Wind turbine", "Hydroelectric dam", "Biomass generator"], "correct": 0},
-    {"id": 166, "question": "Which gas is mainly responsible for the greenhouse effect?", "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Helium"], "correct": 0},
-    {"id": 167, "question": "Which renewable energy source is generated from organic matter?", "options": ["Biomass", "Solar", "Wind", "Hydropower"], "correct": 0},
-    {"id": 168, "question": "Wind turbines convert:", "options": ["Kinetic energy into electricity", "Solar energy into electricity", "Heat energy into electricity", "Mechanical energy into heat"], "correct": 0},
-    {"id": 169, "question": "Which is the cleanest renewable energy source?", "options": ["Solar", "Coal", "Natural Gas", "Oil"], "correct": 0},
-    {"id": 170, "question": "What is biomass energy primarily derived from?", "options": ["Organic matter", "Fossil fuels", "Nuclear reactions", "Wind"], "correct": 0},
-    {"id": 171, "question": "Which gas is produced during anaerobic digestion of biomass?", "options": ["Methane", "Oxygen", "Carbon dioxide", "Nitrogen"], "correct": 0},
-    {"id": 172, "question": "Which process converts biomass into liquid biofuels?", "options": ["Fermentation", "Photosynthesis", "Gasification", "Combustion"], "correct": 0},
-    {"id": 173, "question": "Bioethanol is mainly produced from:", "options": ["Corn and sugarcane", "Wood", "Coal", "Solar energy"], "correct": 0},
-    {"id": 174, "question": "Which type of biomass energy technology produces heat and electricity directly by burning biomass?", "options": ["Combustion", "Anaerobic digestion", "Gasification", "Fermentation"], "correct": 0},
-    {"id": 175, "question": "Biodiesel is mainly produced from:", "options": ["Vegetable oils and animal fats", "Coal", "Natural gas", "Wood"], "correct": 0},
-    {"id": 176, "question": "Hydrogen fuel cells convert:", "options": ["Chemical energy into electricity", "Chemical energy directly into heat", "Electrical energy into mechanical energy", "Mechanical energy into chemical energy"], "correct": 0},
-    {"id": 177, "question": "Electrolysis of water produces hydrogen and:", "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Methane"], "correct": 0},
-    {"id": 178, "question": "What is a major challenge of using hydrogen as a fuel?", "options": ["Storage and transportation difficulties", "High carbon emissions", "Low energy content", "Limited fuel availability"], "correct": 0},
-    {"id": 179, "question": "Which of the following is NOT a common method of hydrogen production?", "options": ["Combustion", "Electrolysis", "Steam methane reforming", "Biomass gasification"], "correct": 0},
-    {"id": 180, "question": "Fuel cells require:", "options": ["Hydrogen and oxygen", "Constant supply of fossil fuels", "Nuclear fuel", "Coal"], "correct": 0},
-    {"id": 181, "question": "Tidal barrages work similarly to:", "options": ["Hydroelectric dams", "Wind turbines", "Solar panels", "Geothermal plants"], "correct": 0},
-    {"id": 182, "question": "Which country operates the largest tidal power station?", "options": ["South Korea", "United States", "Canada", "France"], "correct": 0},
-    {"id": 183, "question": "Ocean energy is considered:", "options": ["Renewable", "Non-renewable", "Fossil fuel-based", "Polluting"], "correct": 0},
-    {"id": 184, "question": "Which device is used to harness energy from ocean waves?", "options": ["Oscillating water column", "Pelton wheel", "Steam turbine", "Photovoltaic cells"], "correct": 0},
-    {"id": 185, "question": "The unit used to measure tidal range is:", "options": ["Meters", "Kilowatts", "Joules", "Pascals"], "correct": 0},
-    {"id": 186, "question": "Tidal energy is converted into electricity using:", "options": ["Turbines", "Solar panels", "Gas engines", "Batteries"], "correct": 0},
-    {"id": 187, "question": "The height difference between high tide and low tide is called:", "options": ["Tide range", "Wave height", "Tidal flow", "Tidal speed"], "correct": 0},
-    {"id": 188, "question": "What is the primary source of geothermal energy?", "options": ["Heat from Earth's interior", "Sunlight", "Ocean currents", "Wind movement"], "correct": 0},
-    {"id": 189, "question": "Which of the following best describes the source of geothermal energy?", "options": ["Radioactive decay of materials in Earth's core", "Photosynthesis", "Ocean waves", "Burning of coal"], "correct": 0},
-    {"id": 190, "question": "The first commercial geothermal power plant was established in:", "options": ["1904", "1864", "1950", "1975"], "correct": 0},
-    {"id": 191, "question": "Which layer of the Earth is the hottest and contributes most to geothermal heat?", "options": ["Inner core", "Crust", "Mantle", "Outer core"], "correct": 0},
-    {"id": 192, "question": "What type of rock is typically associated with geothermal activity?", "options": ["Igneous", "Sedimentary", "Metamorphic", "Limestone"], "correct": 0},
-    {"id": 193, "question": "Geothermal energy is found most abundantly in:", "options": ["Volcanic regions and tectonic plate boundaries", "Desert areas", "Coastal regions", "High-altitude mountains"], "correct": 0},
-    {"id": 194, "question": "The transfer of geothermal heat from the Earth's interior to the surface is primarily through:", "options": ["Convection", "Radiation", "Conduction", "Evaporation"], "correct": 0},
-    {"id": 195, "question": "Which radioactive elements are mainly responsible for geothermal heat?", "options": ["Uranium, thorium, and potassium", "Iron, carbon, and silicon", "Nitrogen, oxygen, and argon", "Sodium, chlorine, and magnesium"], "correct": 0},
-    {"id": 196, "question": "In which of the Earth's layers is geothermal energy stored?", "options": ["Lithosphere", "Atmosphere", "Hydrosphere", "Exosphere"], "correct": 0}
+  {
+    id: 1,
+    question: "Sustainability focuses on:",
+    options: ["Meeting present needs without compromising future needs", "Present generation only", "Profit maximization", "Future generations only"],
+    correct: 0
+  },
+  {
+    id: 2,
+    question: "The three main aspects of sustainability are:",
+    options: ["Environmental, social, economic", "Scientific, ecological, spiritual", "Political, cultural, ecological", "Financial, agricultural, cultural"],
+    correct: 0
+  },
+  {
+    id: 3,
+    question: "How many Sustainable Development Goals (SDGs) are there?",
+    options: ["17", "18", "16", "15"],
+    correct: 0
+  },
+  {
+    id: 4,
+    question: "SDG 13 deals with:",
+    options: ["Climate action", "Life on Land", "Gender equality", "Clean water"],
+    correct: 0
+  },
+  {
+    id: 5,
+    question: "The Montreal Protocol is related to:",
+    options: ["Ozone layer protection", "Carbon credits", "Climate change", "Solid waste management"],
+    correct: 0
+  },
+  {
+    id: 6,
+    question: "Carbon credit is earned by:",
+    options: ["Reducing greenhouse gas emissions", "Increasing industrial waste", "Using more fossil fuels", "Importing resources"],
+    correct: 0
+  },
+  {
+    id: 7,
+    question: "The Brundtland Commission Report (1987) is famous for:",
+    options: ["Definition of sustainable development", "SDG targets", "Carbon footprint analysis", "Environmental accounting"],
+    correct: 0
+  },
+  {
+    id: 8,
+    question: "The Paris Agreement was signed in:",
+    options: ["2015", "2016", "1992", "1987"],
+    correct: 0
+  },
+  {
+    id: 9,
+    question: "The water footprint measures:",
+    options: ["Total freshwater consumed directly and indirectly", "Only industrial water use", "Ocean water level", "Rainwater alone"],
+    correct: 0
+  },
+  {
+    id: 10,
+    question: "Assertion (A): Renewable energy sources reduce greenhouse gas emissions. Reason (R): They do not emit CO₂ during operation.",
+    options: ["A and R true, R is correct explanation", "A and R true, but unrelated", "A true, R false", "A false, R true"],
+    correct: 0
+  },
+  {
+    id: 11,
+    question: "Which is a social aspect of sustainability?",
+    options: ["Public health", "Biodiversity", "Energy efficiency", "Recycling"],
+    correct: 0
+  },
+  {
+    id: 12,
+    question: "Kyoto Protocol is related to:",
+    options: ["Greenhouse gas reduction", "Ozone protection", "Biodiversity", "Forest laws"],
+    correct: 0
+  },
+  {
+    id: 13,
+    question: "A carbon credit equals:",
+    options: ["1 tonne CO₂", "10 tonnes CO₂", "1 kg CO₂", "100 tonnes CO₂"],
+    correct: 0
+  },
+  {
+    id: 14,
+    question: "Which SDG ensures “Affordable and Clean Energy”?",
+    options: ["SDG 7", "SDG 5", "SDG 6", "SDG 8"],
+    correct: 0
+  },
+  {
+    id: 15,
+    question: "Which is an example of climate change mitigation?",
+    options: ["Afforestation", "Urban sprawl", "Overfishing", "Burning coal"],
+    correct: 0
+  },
+  {
+    id: 16,
+    question: "Assertion (A): SDG 14 relates to Life below Water. Reason (R): It addresses marine pollution.",
+    options: ["A and R true, R is correct explanation", "A true, R false", "Both false", "A false, R true"],
+    correct: 0
+  },
+  {
+    id: 17,
+    question: "Which stage has highest carbon footprint in manufacturing?",
+    options: ["Raw material extraction", "Packaging", "Transport", "Disposal"],
+    correct: 0
+  },
+  {
+    id: 18,
+    question: "The main GHG from agriculture is:",
+    options: ["Methane", "CO₂", "Nitrous oxide", "Ozone"],
+    correct: 0
+  },
+  {
+    id: 19,
+    question: "Carbon neutrality means:",
+    options: ["Balancing emitted & absorbed CO₂", "Zero energy use", "Only solar energy", "Avoiding trees"],
+    correct: 0
+  },
+  {
+    id: 20,
+    question: "Which SDG relates to Responsible Consumption & Production?",
+    options: ["SDG 12", "SDG 10", "SDG 11", "SDG 13"],
+    correct: 0
+  },
+
+  {
+    id: 21,
+    question: "ESG stands for:",
+    options: ["Environmental, Social, Governance", "Energy, Sustainability, Green", "Environmental, Security, Global", "Economic, Social, Green"],
+    correct: 0
+  },
+  {
+    id: 22,
+    question: "Which of the following is a non–renewable resource?",
+    options: ["Coal", "Solar energy", "Biomass", "Wind energy"],
+    correct: 0
+  },
+  {
+    id: 23,
+    question: "Which SDG focuses on Zero Hunger?",
+    options: ["SDG 2", "SDG 3", "SDG 1", "SDG 4"],
+    correct: 0
+  },
+  {
+    id: 24,
+    question: "Which gas has the highest global warming potential (GWP)?",
+    options: ["SF₆", "CO₂", "Methane", "Nitrous oxide"],
+    correct: 0
+  },
+  {
+    id: 25,
+    question: "A circular economy mainly promotes:",
+    options: ["Reuse, Reduce, Recycle", "Linear consumption", "Increased mining", "Higher disposal"],
+    correct: 0
+  },
+  {
+    id: 26,
+    question: "The major cause of coral bleaching is:",
+    options: ["Ocean warming", "Noise pollution", "Sewage discharge", "Fishing nets"],
+    correct: 0
+  },
+  {
+    id: 27,
+    question: "The process of converting waste materials into new materials is called:",
+    options: ["Recycling", "Landfilling", "Incineration", "Composting"],
+    correct: 0
+  },
+  {
+    id: 28,
+    question: "The IPCC deals with:",
+    options: ["Climate change assessment", "Oil price regulation", "Nuclear safety", "Forest certification"],
+    correct: 0
+  },
+  {
+    id: 29,
+    question: "Which energy source has the lowest carbon emissions?",
+    options: ["Wind", "Natural gas", "Diesel", "Coal"],
+    correct: 0
+  },
+  {
+    id: 30,
+    question: "Assertion (A): Biodiversity improves ecosystem stability. Reason (R): It increases genetic variety within species.",
+    options: ["A and R true, R is correct explanation", "A and R true, but unrelated", "A true, R false", "A false, R true"],
+    correct: 0
+  },
+  {
+    id: 31,
+    question: "Sustainability reporting is also called:",
+    options: ["Triple bottom line reporting", "Revenue management", "Fiscal balancing", "Product lifecycle costing"],
+    correct: 0
+  },
+  {
+    id: 32,
+    question: "Which SDG focuses on Gender Equality?",
+    options: ["SDG 5", "SDG 4", "SDG 3", "SDG 10"],
+    correct: 0
+  },
+  {
+    id: 33,
+    question: "The ozone layer is mainly found in:",
+    options: ["Stratosphere", "Troposphere", "Mesosphere", "Ionosphere"],
+    correct: 0
+  },
+  {
+    id: 34,
+    question: "The main reason for rise in sea level is:",
+    options: ["Melting of ice caps", "Soil erosion", "Deforestation", "Reduced rainfall"],
+    correct: 0
+  },
+  {
+    id: 35,
+    question: "‘One Health’ approach links:",
+    options: ["Human, animal & environmental health", "Human health only", "Agricultural development only", "Animal welfare only"],
+    correct: 0
+  },
+  {
+    id: 36,
+    question: "Carbon sequestration refers to:",
+    options: ["Capturing and storing CO₂", "Burning fossil fuels", "Deforestation", "Emission of methane"],
+    correct: 0
+  },
+  {
+    id: 37,
+    question: "Which of the following is an example of e–waste?",
+    options: ["Old computers", "Plastic bags", "Food scraps", "Glass bottles"],
+    correct: 0
+  },
+  {
+    id: 38,
+    question: "What does SDG 6 ensure?",
+    options: ["Clean water & sanitation", "Zero hunger", "Affordable energy", "Equality"],
+    correct: 0
+  },
+  {
+    id: 39,
+    question: "Which is an example of a renewable resource?",
+    options: ["Hydropower", "Petroleum", "Coal", "Minerals"],
+    correct: 0
+  },
+  {
+    id: 40,
+    question: "The term “biodiversity hotspot” refers to:",
+    options: ["Region with high species richness & threat", "Area with high rainfall only", "Region with high population density", "Place with only aquatic species"],
+    correct: 0
+  },
+  {
+    id: 41,
+    question: "Greenwashing refers to:",
+    options: ["Misleading claims about environmental benefits", "Genuine eco–friendly branding", "Government subsidy on green products", "Cleaning polluted rivers"],
+    correct: 0
+  },
+  {
+    id: 42,
+    question: "The largest contributor to global CO₂ emissions is:",
+    options: ["Energy sector", "Agriculture", "Waste management", "Transport sector"],
+    correct: 0
+  },
+  {
+    id: 43,
+    question: "SDG 15 focuses on:",
+    options: ["Life on Land", "Life below Water", "Climate Action", "Responsible Consumption"],
+    correct: 0
+  },
+  {
+    id: 44,
+    question: "The most common refrigerant gas banned by Montreal Protocol was:",
+    options: ["CFCs", "Nitrous oxide", "Sulphur dioxide", "Methane"],
+    correct: 0
+  },
+  {
+    id: 45,
+    question: "A Life Cycle Assessment (LCA) evaluates:",
+    options: ["Environmental impact of a product from cradle to grave", "Price variation over time", "Chemical energy stored in biomass", "Social effects of advertising"],
+    correct: 0
+  },
+  {
+    id: 46,
+    question: "The major cause of acid rain is:",
+    options: ["SO₂ and NOₓ emissions", "Ozone depletion", "Dust storms", "UV radiation"],
+    correct: 0
+  },
+  {
+    id: 47,
+    question: "Which is a non–biodegradable waste?",
+    options: ["Plastic bottles", "Human waste", "Food leftovers", "Paper"],
+    correct: 0
+  },
+  {
+    id: 48,
+    question: "Photosynthesis removes which gas from the atmosphere?",
+    options: ["CO₂", "O₂", "Methane", "Nitrogen"],
+    correct: 0
+  },
+  {
+    id: 49,
+    question: "Which of the following is NOT a greenhouse gas?",
+    options: ["Oxygen (O₂)", "Methane (CH₄)", "Carbon dioxide (CO₂)", "Nitrous oxide (N₂O)"],
+    correct: 0
+  },
+  {
+    id: 50,
+    question: "The UN conference where SDGs were adopted was:",
+    options: ["Rio+20 (2012)", "Paris COP21 (2015)", "Stockholm (1972)", "Kyoto (1997)"],
+    correct: 0
+  },
+  {
+    id: 51,
+    question: "Sustainable agriculture aims at:",
+    options: ["Long–term soil fertility", "Maximum pesticide use", "Growing only export crops", "Eliminating biodiversity"],
+    correct: 0
+  },
+  {
+    id: 52,
+    question: "Eutrophication in lakes is caused by:",
+    options: ["Excess nutrients (N & P)", "High dissolved oxygen", "Low temperature", "Acid water"],
+    correct: 0
+  },
+  {
+    id: 53,
+    question: "The term “zero waste” promotes:",
+    options: ["Recycling and reusing everything possible", "Burning all waste", "Exporting waste to other countries", "Storing waste in landfills"],
+    correct: 0
+  },
+  {
+    id: 54,
+    question: "“Carbon footprint” is measured in:",
+    options: ["Tonnes of CO₂ equivalent", "Parts per million", "Joules per second", "Kg of solid waste"],
+    correct: 0
+  },
+  {
+    id: 55,
+    question: "A country becomes carbon negative when:",
+    options: ["It absorbs more CO₂ than it emits", "It stops recycling", "It stops using renewable energy", "It has zero forests"],
+    correct: 0
+  },
+  {
+    id: 56,
+    question: "Which SDG focuses on Good Health & Wellbeing?",
+    options: ["SDG 3", "SDG 2", "SDG 8", "SDG 6"],
+    correct: 0
+  },
+  {
+    id: 57,
+    question: "Which human activity increases methane emissions most?",
+    options: ["Livestock farming", "Solar farms", "Wind turbines", "Hydropower"],
+    correct: 0
+  },
+  {
+    id: 58,
+    question: "The main cause of freshwater scarcity is:",
+    options: ["Over–extraction & pollution", "Lack of oceans", "Low atmospheric CO₂", "Ozone layer formation"],
+    correct: 0
+  },
+  {
+    id: 59,
+    question: "Which country is currently the largest emitter of CO₂?",
+    options: ["China", "India", "USA", "Russia"],
+    correct: 0
+  },
+  {
+    id: 60,
+    question: "Reducing the use of single–use plastics supports which SDG?",
+    options: ["SDG 14", "SDG 1", "SDG 4", "SDG 9"],
+    correct: 0
+  },
+  {
+    id: 61,
+    question: "The major contributor to marine plastic waste is:",
+    options: ["Single–use plastics", "Agricultural soil runoff", "Oil spills", "Thermal pollution"],
+    correct: 0
+  },
+  {
+    id: 62,
+    question: "Which layer of the atmosphere contains most weather changes?",
+    options: ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+    correct: 0
+  },
+  {
+    id: 63,
+    question: "Which organization releases the Human Development Index (HDI)?",
+    options: ["UNDP", "UNEP", "WHO", "IPCC"],
+    correct: 0
+  },
+  {
+    id: 64,
+    question: "The term “fair trade” mainly refers to:",
+    options: ["Ethical pricing for producers & farmers", "Trade without taxation", "Global stock exchange", "Luxury export goods"],
+    correct: 0
+  },
+  {
+    id: 65,
+    question: "Which SDG relates to Quality Education?",
+    options: ["SDG 4", "SDG 5", "SDG 8", "SDG 11"],
+    correct: 0
+  },
+  {
+    id: 66,
+    question: "The primary source of groundwater contamination is:",
+    options: ["Industrial waste discharge", "Cloud formation", "River flow", "Wind erosion"],
+    correct: 0
+  },
+  {
+    id: 67,
+    question: "Ozone depletion mainly causes:",
+    options: ["Increase in UV radiation", "Rise in CO₂ concentration", "Ocean acidification", "Greenhouse effect"],
+    correct: 0
+  },
+  {
+    id: 68,
+    question: "A “carbon sink” refers to:",
+    options: ["Natural system that absorbs CO₂", "A factory releasing methane", "A fossil fuel deposit", "A thermal power station"],
+    correct: 0
+  },
+  {
+    id: 69,
+    question: "The first Earth Summit was held in:",
+    options: ["1992, Rio de Janeiro", "1987, New York", "1972, Paris", "2002, Johannesburg"],
+    correct: 0
+  },
+  {
+    id: 70,
+    question: "Which is a pollutant causing smog?",
+    options: ["NO₂", "O₂", "Helium", "Neon"],
+    correct: 0
+  },
+  {
+    id: 71,
+    question: "“Extended Producer Responsibility” (EPR) applies to:",
+    options: ["Waste management by product manufacturers", "Taxation on raw materials", "Free market trade", "Government subsidy on fuel"],
+    correct: 0
+  },
+  {
+    id: 72,
+    question: "Which SDG is related to Decent Work & Economic Growth?",
+    options: ["SDG 8", "SDG 6", "SDG 11", "SDG 3"],
+    correct: 0
+  },
+  {
+    id: 73,
+    question: "Which renewable energy is generated from Earth's heat?",
+    options: ["Geothermal", "Tidal", "Biomass", "Solar photovoltaic"],
+    correct: 0
+  },
+  {
+    id: 74,
+    question: "The main cause of urban heat island effect is:",
+    options: ["Concrete and asphalt absorbing heat", "Presence of lakes", "Green belt areas", "Low population density"],
+    correct: 0
+  },
+  {
+    id: 75,
+    question: "Environmental Impact Assessment (EIA) is done:",
+    options: ["Before starting a project", "After project failure", "Only for foreign projects", "For agricultural land only"],
+    correct: 0
+  },
+  {
+    id: 76,
+    question: "Which gas is responsible for photochemical smog?",
+    options: ["Ozone at ground level", "Oxygen gas", "Helium", "Argon"],
+    correct: 0
+  },
+  {
+    id: 77,
+    question: "The main purpose of carbon tax is:",
+    options: ["Discourage fossil fuel use", "Promote coal mining", "Reduce renewable energy", "Increase industrial waste"],
+    correct: 0
+  },
+  {
+    id: 78,
+    question: "What is the biggest threat to mangroves?",
+    options: ["Coastal development", "Volcanoes", "Earthquakes", "Snowfall"],
+    correct: 0
+  },
+  {
+    id: 79,
+    question: "The SDG 11 deals with:",
+    options: ["Sustainable Cities & Communities", "Zero Hunger", "Quality Education", "Partnerships for Goals"],
+    correct: 0
+  },
+  {
+    id: 80,
+    question: "Which instrument measures air pollution?",
+    options: ["Air Quality Index Monitor", "Barometer", "Seismograph", "Hygrometer"],
+    correct: 0
+  },
+  {
+    id: 81,
+    question: "The term “biocapacity” refers to:",
+    options: ["Ability of ecosystem to regenerate resources", "Total land area of a country", "Amount of fossil fuel available", "Capacity of machines to recycle waste"],
+    correct: 0
+  },
+  {
+    id: 82,
+    question: "Main source of NOₓ pollution is:",
+    options: ["Vehicle emissions", "Forests", "Oceans", "Wind turbines"],
+    correct: 0
+  },
+  {
+    id: 83,
+    question: "The SDG 9 focuses on:",
+    options: ["Industry, Innovation & Infrastructure", "Affordable Clean Energy", "No Poverty", "Climate Action"],
+    correct: 0
+  },
+  {
+    id: 84,
+    question: "Which of the following is NOT a fossil fuel?",
+    options: ["Hydrogen gas", "Coal", "Oil", "Natural gas"],
+    correct: 0
+  },
+  {
+    id: 85,
+    question: "The main cause of desertification is:",
+    options: ["Overgrazing", "Cloud seeding", "Volcanic eruptions", "Lunar tides"],
+    correct: 0
+  },
+  {
+    id: 86,
+    question: "Which of the following is a biodiversity conservation method?",
+    options: ["Protected areas", "Industrial expansion", "Deforestation", "Land mining"],
+    correct: 0
+  },
+  {
+    id: 87,
+    question: "The global temperature rise limit set in Paris Agreement is:",
+    options: ["1.5°C", "5°C", "3°C", "0.5°C"],
+    correct: 0
+  },
+  {
+    id: 88,
+    question: "SDG 1 talks about:",
+    options: ["No Poverty", "No Hunger", "Good Health", "Clean Water"],
+    correct: 0
+  },
+  {
+    id: 89,
+    question: "“Ecological footprint” measures:",
+    options: ["Human demand on Earth’s ecosystems", "Weight of total recycling waste", "Distance traveled by transport", "CO₂ present in atmosphere"],
+    correct: 0
+  },
+  {
+    id: 90,
+    question: "Which is a primary microplastic source?",
+    options: ["Synthetic clothing fibers", "Sand grains", "Iron filings", "Coconut husk"],
+    correct: 0
+  },
+  {
+    id: 91,
+    question: "The main reason for ocean acidification is:",
+    options: ["Absorption of CO₂", "Oil spills", "Dumping of plastics", "Marine deforestation"],
+    correct: 0
+  },
+  {
+    id: 92,
+    question: "Which country became the first carbon–negative nation?",
+    options: ["Bhutan", "Japan", "Germany", "Brazil"],
+    correct: 0
+  },
+  {
+    id: 93,
+    question: "The “Reduce–Reuse–Recycle” principle belongs to:",
+    options: ["Waste management", "Space exploration", "Food processing", "Atomic energy"],
+    correct: 0
+  },
+  {
+    id: 94,
+    question: "Who publishes the annual Global Environment Outlook (GEO)?",
+    options: ["UNEP", "WHO", "UNICEF", "FAO"],
+    correct: 0
+  },
+  {
+    id: 95,
+    question: "Which SDG is related to Peace, Justice & Strong Institutions?",
+    options: ["SDG 16", "SDG 17", "SDG 14", "SDG 12"],
+    correct: 0
+  },
+  {
+    id: 96,
+    question: "The term “Anthropocene” refers to:",
+    options: ["Human–dominated geologic age", "Ancient volcanic age", "Prehistoric ice age", "Fossil fuel era only"],
+    correct: 0
+  }
 ]
 
 print(f"Questions 101-196: {len(ess_questions_101_196)}")
